@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Ubuntu", sans-serif;
+  /* font-family: "Sansita Swashed", system-ui; */
+}
+.container{
+    margin: 20px 30px;
+}
+.head{
+    text-align: center;
+    line-height: 2;
+}
+.name{
+    font-family: "Jost", sans-serif;
+    font-size: 1.8rem;
+
+}
+.head p{
+    margin: 10px 0;
+}
+
+.objectives, .leadership, .workExp{
+    margin: 40px 0;
+    text-align: justify;
+    line-height: 2;
+}
+/* Education */
+.education{
+    line-height: 2;
+}
+.degreeContent1{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+/* Work Experience */
